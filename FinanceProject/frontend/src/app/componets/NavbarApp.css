@@ -1,0 +1,15 @@
+h4 {
+	color: white !important;
+}
+
+h4:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.hov {
+	color: white !important;
+}
+.hov-icon:hover {
+	color: lightgray !important;
+}
